@@ -1,3 +1,6 @@
+![promo_1](https://raw.githubusercontent.com/dfgHiatus/openPoseSocket/main/promo.png)
+
+
 # openPoseSocket
 *openPoseSocket is a body tracking application for vr and screen mode users in NeosVR." To use, download and run openPoseSocket.exe and equip a pre-set openPoseAvatar from my public folder "dfg's contraptions".*
 
